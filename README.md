@@ -1,1 +1,5 @@
 # Predicting-Pulsar-Stars-using-Classical-Machine-Learning
+
+Identifying pulsar stars is essential to understanding various properties of the universe, such as the nature of gravity, the properties of matter in extreme conditions, and the evolution of stars. Several Machine Learning Algorithms are used to determine whether a candidate object is a pulsar or not. This study used a dataset of more than 17,000 observations of pulsar candidates, each with eight features related to physical properties. The results showed that the random forest algorithm achieved the highest accuracy of 98.04%. The logistic regression and support vector machine also performed well, achieving accuracies of 97.91% and 97.93%, respectively. 
+
+This repository contains the HRTU dataset containing the necessary pulsar data necessary for the study as well as the Jupyter notebook that is intended to be opened in Google Colab. To replicate the results, the user is expected to upload the dataset and the code to Google Drive, to be used in Google Colaboratory.  
